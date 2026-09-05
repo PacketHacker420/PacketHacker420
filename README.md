@@ -1,81 +1,73 @@
-<!-- TOP BANNER IMAGE -->
-<p align="center">
-  <img src="https://github.com/PacketHacker420/PacketHacker420/blob/8e372140f302080c1bd2ce719627f19717779c74/352051914-e26d1d6a-30ee-488e-90ca-11b3aa180148.gif" alt="On journey to become a..." width="100%">
-</p>
+<p align="center"><img src="https://github.com/PacketHacker420/PacketHacker420/blob/main/352051914-e26d1d6a-30ee-488e-90ca-11b3aa180148.gif" width="100%" height="auto"/></p>
 
-# 🎭 Hi there, I'm PacketDrop | CyberSecurity Specialist & Developer
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://demolab.com" alt="Typing SVG" />
+  </a>
+</div>
+<!--
+<h3 align="center">On a Journey to become a great human being...<p align="right"></h3> -->
 
-<p align="left">
-  <img src="https://shields.io" alt="Role" />
-  <img src="https://shields.io" alt="Focus" />
-</p>
 
----
+<img width="28%" align='right' src="https://github.com/PacketHacker420/PacketHacker420/blob/main/pf.gif">
 
-### 🛡️ Profile Initializer
 
-<!-- BIO SECTION WITH SIDE IMAGE -->
-<table>
-  <tr>
-    <td width="70%" valign="top">
-      
-```yaml
-identity:
-  alias: "PacketDrop"
-  handle: "PacketHacker420"
-  objective: "On journey to become a Cybersecurity Specialist"
+<h2 align="left">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
 
-environment:
-  domains: ["Cyber Security", "Malware Analysis", "Bug Hunting", "Web3 Pentesting"]
-  languages: ["Python", "JavaScript", "C++", "Bash"]
-```
+I'm **[PacketDrop](https://github.com/PacketHacker420)**, a developer & Software Engineer. I'm on my way to becoming a **Full-Stack Specialist** or a **Software Architect**. <br>
+**Technology** has always fascinated me, and I've immersed myself in the captivating world of software development. Programming, Architecture, Open-source, I hope I will become a Development Expert so I can build great products and help the community.
 
-Technology has always fascinated me. I immerse myself deeply in the captivating world of cybersecurity—deconstructing malwares, tracking viruses, and hunting bugs down to the source code to protect assets and support the open-source community.
 
 <details>
-<summary>📦 Expand Core System Specs (More about me)</summary>
+  <summary>More about me</summary>
 
-- 🧠 Actively researching defensive mechanisms and secure infrastructure layers.
-- 🛠️ Building automation frameworks to streamline threat hunting pipelines.
-- 💬 Ask me about script payloads, memory forensics, or target scanning.
+- **Name**: PacketDrop
+- **From**: KANSAS
+- **Software Developer** | **Tech Researcher** 
+- I have experience in coding, reverse engineering, application building, UI/UX, database management.
+- **Backend Engineering**, **System Architecture**
+- Improving knowledge in **Web Technologies**
+- I’m currently learning **everything** 
+
 </details>
+<br>
 
-</td>
-    <!-- BIO IMAGE SIDE-BY-SIDE -->
-    <td width="30%" valign="center" align="center">
-      <img src="https://github.com/PacketHacker420/PacketHacker420/blob/main/pf.gif" width="180px" alt="Hacker Profile Icon">
-    </td>
-  </tr>
-</table>
 
 ---
 
-### ⚡ Operational Status
+<h2 id="present_status"> Present Status </h3>
 
-*   🕵️ **SecOps Pipeline:** Actively learning advanced bug hunting protocols and deep malware forensics.
-*   🌐 **Ecosystem Building:** Managing technical engineering communities and producing security-focused content.
-*   🛠️ **Internal Tooling:** Architecting utility scripts and micro-tools optimized for personal workflows.
-*   🌱 **Upstream Delivery:** Actively building and contributing components to open-source initiatives.
-*   🛡️ **Edge Environments:** Deep diving into mobile application penetration testing and Web3 smart contract security vectors.
+<img width="25%" align='right' src="https://github.com/PacketHacker420/PacketHacker420/blob/main/Pl.gif">
 
----
+👉 Still Learning system design & software architectures.
 
-### 📊 System Metrics & Performance
+👉 Managing Tech Communities & Content creator.
 
-<p align="center">
-  <i>"Never give up. Never back down."</i>
-</p>
+👉 Writing Some Useful Tools For Myself & Communities
 
-<!-- DYNAMIC GITHUB STATS CARDS FOR PACKETHACKER420 -->
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
+👉 Building & Contributing To Open Source Projects
 
-<!-- IMAGE UNDER GITHUB STATS -->
-<p align="center">
-  <img src="https://github.com/PacketHacker420/PacketHacker420/blob/main/coder.png" alt="Coder Graphic" width="100%">
-</p>
+👉 Currently Learning mobile development & web3 
+
+`Updating:` Journey to Development Specialist.
 
 ---
-<p align="center"><sup>Console session logged. Ready for deployment.</sup></p>
+
+<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+ 
+
+
+
+<br><br>
+
+<p align="center">
+  <b><i>"Never give up. Never back down."</i></b>
+</p>
+
+<p align="center">
+<a>🌱</a>
+</p>
